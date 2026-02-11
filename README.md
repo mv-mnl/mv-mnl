@@ -17,6 +17,6 @@ Desarrollador Full Stack apasionado por crear soluciones eficientes y modernas, 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mv-mnl&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mv-mnl&layout=compact&theme=radical)
-
+![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=mv-mnl&show_icons=true&theme=radial)
 ---
 📫 **Cómo contactarme:** [Tu Correo/LinkedIn]
