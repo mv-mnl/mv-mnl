@@ -4,19 +4,25 @@ Desarrollador Full Stack apasionado por crear soluciones eficientes y modernas, 
 
 ### 🛠️ Mi Stack Tecnológico
 
-- **Backend:** PHP (Laravel 11/12), Livewire
-- **Frontend:** Tailwind CSS, JavaScript (Chart.js), Blade
-- **Herramientas:** Docker, Git, MySQL, Sail
+| Categoría | Herramientas |
+| :--- | :--- |
+| **Backend** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) **Livewire** |
+| **Frontend** | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) **Chart.js** |
+| **Herramientas** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) |
 
-### 🚀 Proyectos Destacados
-
-- **[TrackIt](https://github.com/mv-mnl/TrackIt):** Sistema completo de gestión financiera personal. Manejo de ingresos, gastos, presupuestos y metas de ahorro con gráficas interactivas.
-- **[GymTrack](https://github.com/mv-mnl/gym_track):** Aplicación para el seguimiento de rutinas de gimnasio y progreso físico.
+---
 
 ### 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mv-mnl&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mv-mnl&layout=compact&theme=radical)
-![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=mv-mnl&show_icons=true&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mv-mnl&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mv-mnl&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+### 🕒 Actividad Reciente
+1. 💡 Abrió Issue #10 en `tu-proyecto`
+2. 🚀 Mergeó PR #5 en `laravel-backend`
 ---
-📫 **Cómo contactarme:** [Tu Correo/LinkedIn]
+
+### 📫 Conectemos
+[Tu LinkedIn] | [Tu Twitter/X] | [Tu Portfolio]
