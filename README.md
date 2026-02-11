@@ -19,7 +19,7 @@ Desarrollador Full Stack apasionado por crear soluciones eficientes y modernas, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mv-mnl&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
-### 🕒 Actividad Reciente
+### ⚡ Actividad reciente
 
 ---
 
