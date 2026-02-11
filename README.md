@@ -20,8 +20,5 @@ Desarrollador Full Stack apasionado por crear soluciones eficientes y modernas, 
 </p>
 
 ### ⚡ Actividad reciente
-
 ---
-
 ### 📫 Conectemos
-[LinkedIn](tu-link) | [Twitter](tu-link) | [Portfolio](tu-link)
