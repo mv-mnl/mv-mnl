@@ -1,4 +1,3 @@
-<!--START_SECTION:activity-->
 # ¡Hola! Soy Manuel 👋
 
 Desarrollador Full Stack apasionado por crear soluciones eficientes y modernas, principalmente con el ecosistema **Laravel**.
@@ -21,10 +20,8 @@ Desarrollador Full Stack apasionado por crear soluciones eficientes y modernas, 
 </p>
 
 ### 🕒 Actividad Reciente
-1. 💡 Abrió Issue #10 en `tu-proyecto`
-2. 🚀 Mergeó PR #5 en `laravel-backend`
+
 ---
 
 ### 📫 Conectemos
-[Tu LinkedIn] | [Tu Twitter/X] | [Tu Portfolio]
-
+[LinkedIn](tu-link) | [Twitter](tu-link) | [Portfolio](tu-link)
