@@ -20,7 +20,6 @@ Desarrollador Full Stack apasionado por crear soluciones eficientes y modernas, 
 
 ### 📊 Top lenguajes
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mv-mnl&layout=compact&theme=radical&v=1)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mv-mnl)](https://git.io/streak-stats)
 ---
 ### 📫 Conectemos
