@@ -79,3 +79,10 @@
   <img src="https://github-profile-trophy.vercel.app?username=mv-mnl&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&v=3" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mv-mnl&radius=16&theme=react&area=true" height="300" alt="activity-graph graph"  />
 </div>
+
+
+<p align="center">prueba</p>
+<div align="center">
+  <img src="https://stack.manuelmv.net/api?username=mv-mnl&show_icons=true&theme=dracula&v=5" height="150" alt="stats" />
+  <img src="https://stack.manuelmv.net/api/top-langs?username=mv-mnl&layout=compact&theme=dracula&v=5" height="150" alt="languages" />
+</div>
