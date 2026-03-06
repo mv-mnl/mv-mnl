@@ -84,8 +84,9 @@
 
 <div align="left" style="display: flex; flex-direction: row; align-items: center; justify-content: center ; gap: 10%;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mv-mnl&" />
+</div>
 
-
+<div align="left" style="display: flex; flex-direction: row; align-items: center; justify-content: center ; gap: 10%;">
   <img height="200" src="./gif/aly2g5.gif"  />
 </div>
 
