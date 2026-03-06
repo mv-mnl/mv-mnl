@@ -16,10 +16,6 @@ Desarrollador Full Stack apasionado por crear soluciones eficientes y modernas, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mv-mnl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🕒 Actividad Reciente
-1. 💡 Abrió Issue #10 en `tu-proyecto`
-2. 🚀 Mergeó PR #5 en `laravel-backend`
+### ⚡ Actividad reciente
 ---
-
 ### 📫 Conectemos
-[Tu LinkedIn] | [Tu Twitter/X] | [Tu Portfolio]
