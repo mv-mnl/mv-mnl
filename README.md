@@ -14,10 +14,7 @@ Desarrollador Full Stack apasionado por crear soluciones eficientes y modernas, 
 
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mv-mnl&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mv-mnl&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mv-mnl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🕒 Actividad Reciente
 1. 💡 Abrió Issue #10 en `tu-proyecto`
