@@ -30,6 +30,22 @@ jobs:
       - name: Ejecutar script de estadísticas
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USER_NAME: mv-mnl
+          NAME_HEADER: manuel@mv-mnl
+          OS: Arch Linux (Hyprland)
+          HOST: Custom Build
+          KERNEL: Linux
+          IDE: Neovim, VSCode
+          LANG_PROG: Python, Bash, JS, C++
+          LANG_COMP: HTML, CSS, JSON
+          LANG_REAL: Spanish, English
+          HOBBY_SW: Tiling WMs, Dotfiles, Scripting
+          HOBBY_HW: PC Building
+          HOBBY_OTH: Music, Gaming
+          EMAIL_PERS: mmelende.com
+          EMAIL_WORK: manuel.work@example.com
+          INSTA: mv.mnl
+          DISCORD: mv-mnl
         run: python today.py
 
       - name: Commit y Push de los cambios
