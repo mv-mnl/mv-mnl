@@ -1,5 +1,0 @@
-requests
-python-dateutil
-python-dotenv
-lxml
-Pillow
